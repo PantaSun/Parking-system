@@ -1,0 +1,25 @@
+程序清单:
+一：管理员相关界面程序：
+	admin_login.php     	---- 管理员登陆界面
+	admin.php           	---- 管理中心界面
+	query_one_ower.php  	---- 查询某个车主信息界面
+	recharge.php        	---- 给某车主充值界面
+	all_car_state.php   	---- 显示所有车辆信息界面
+	position_state.php      ---- 显示停车场所有车位信息界面
+	query_one_position.php  ---- 查找某个车位是否有停车界面
+
+二：车主个人管理界面相关程序：
+	car_ower_register.php   ---- 车主注册界面
+	car_ower_login.php      ---- 车主登陆界面
+	car_ower.php            ---- 车主个人中心界面
+	car_ower_modify.php     ---- 车主修改个人信息界面
+	car.php                 ---- 车主个人车辆信息界面
+	car_completion.php      ---- 车辆信息补全或者修改界面
+	my_car_state.php        ---- 车主车辆状态以及停车取车界面
+三：主页
+	index.php               ---- 首页
+四：退出
+	logout.php              ---- 退出 清除cookie 并跳转到首页
+	logout1.php             ---- 点击车主注册时的退出 清除cookie 并跳转到首页
+五：其它
+	code.php                ---- 产生验证码
